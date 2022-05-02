@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    margin: 50px 800px;
+    font-size: 70px;
+    color: brown;
+}
+.Education{
+    margin-left: 100px;
+    font-size: 30px;
+}
+.becode{
+    padding: 50px;
+    margin-left: 20px;
+}
+img{
+    margin: 0 670px;
+}
+ul{
+    background-color: rgba(128, 128, 128, 0.534);
+}
+h3{
+    color: blue;
+    margin-bottom: 15px;
+}
